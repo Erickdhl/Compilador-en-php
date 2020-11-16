@@ -1,0 +1,37 @@
+Para($i=1;$i<=10;$i++)
+Escribir $i;
+
+$num = 12;
+
+Si($ga < 5 && $ga > 3) 
+Escribir "cuatro";
+
+$num=2;
+Mientras($i <= 10)
+{
+    Escribir $i;
+	Escribir 10;
+}
+
+Si($numeroGanador == 10) 
+{
+  Escribir "Ganaste";
+  Escribir 10;
+}
+
+
+
+Si($numero >= 14) 
+{
+  Escribir "Aprobado";
+  Escribir "felicidades";
+}
+CasoContrario
+Si($numero <= 14) 
+{
+  Escribir "Desaprobado";
+  Escribir "lastima"; 
+}
+
+
+
